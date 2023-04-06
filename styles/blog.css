@@ -1,0 +1,23 @@
+.head{
+    height: 200px;
+    /* background-image: url(icon.png); */
+    background-image: url(../images/pabel.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: yellow;
+    /* background-color: gray; */
+    /* background-blend-mode: multiply; */
+    /* background-position: right bottom; */
+    /* background-position: left top; */
+    
+}
+h2{
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    color: magenta;
+}
+p{
+    color: blueviolet;
+}
